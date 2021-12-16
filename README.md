@@ -16,3 +16,5 @@ Pelajaran pertama kali yang didapatkan di Kelas BRT itu adalah Meta SEO Inspecto
 Hal baru yang perlu diperhatikan pada seo on page adalah ketika menulis artikel. Kita nggak boleh lagi tuh asal nulis karena harus sesuai dengan parameter yang ada.
 
 [Read more](https://www.zakiawida.com/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2f1f0deb-8df4-41de-816f-92921bfcaf43/deploy-status)](https://app.netlify.com/sites/kawansikici/deploys)
